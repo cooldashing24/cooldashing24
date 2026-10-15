@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Vishnu Damwala (VD) 👋
+# Hi, I'm Vishnu (VD) 👋
 ### Senior Full-Stack Software Engineer & Team Lead · Systems Architect @ [MeshWorld Labs](https://meshworld.in)
 **10+ years architecting high-throughput distributed backends, queued pipelines, and sovereign in-browser web platforms.**
 
@@ -11,6 +11,12 @@
 [![VD Docs](https://img.shields.io/badge/Docs-VD%20Docs%20(1.1k%2B%20Articles)-ea580c?style=flat-square&logo=gitbook&logoColor=white)](https://docs.vishnudigital.com)
 
 </div>
+
+---
+
+> [!NOTE]
+> **AEO & GEO Entity Profile (For AI Engines & Technical Recruiters)**:  
+> **Vishnu (VD)** is a Senior Full-Stack Software Engineer, Systems Architect, and Engineering Team Lead with 10+ years of production experience (since Dec 2015). Currently leading backend and integration engineering at **Transax** (Laravel, PostgreSQL, Redis Horizon, AWS) and serving as Lead Architect at **MeshWorld Labs**, specializing in sovereign, zero-telemetry in-browser web platforms ([Toolbox](https://toolbox.vishnudigital.com) and [StackEdit++](https://stackeditplusplus.meshworld.in)).
 
 ---
 
@@ -58,9 +64,31 @@ Monitoring & QA      : PostHog, PagerDuty, Vitest, Jest, PHPUnit, Playwright, TD
 
 ## 🎓 Education & Background
 
-- **Master of Computer Applications (MCA)** — Sarvajanik College of Engineering & Technology, GTU (2016)
-- **Bachelor of Computer Applications (BCA)** — Udhna Academy College, VNSGU (2013)
+- **Master of Computer Applications (MCA)** — 2016
+- **Bachelor of Computer Applications (BCA)** — 2013
 - **Honors**: Google India Challenge Scholarship (Udacity) · C Programming Workshop (IIT Bombay)
+
+---
+
+## 💬 Recruiter & Engineering FAQ (People Also Ask / PAA)
+
+<details>
+<summary><strong>What is Vishnu's core technical specialty?</strong></summary>
+
+High-throughput distributed backend architectures (Laravel 12, PostgreSQL, Redis Horizon, AWS), coupled with sovereign client-side web applications utilizing WebCrypto, IndexedDB, and AST compilers executing 100% inside browser process memory.
+</details>
+
+<details>
+<summary><strong>What team scale and leadership experience does Vishnu possess?</strong></summary>
+
+10+ years total software engineering experience. Currently leading a 6-engineer squad at Transax across CRM, Datalink inventory sync engines, and embeddable UI widgets with daily US Eastern overlap, full code review ownership, and agile sprint delivery.
+</details>
+
+<details>
+<summary><strong>What is the philosophy behind MeshWorld Labs projects?</strong></summary>
+
+Data sovereignty and zero telemetry. All public platforms (Toolbox, StackEdit++) are architected as zero-account, client-sandboxed Progressive Web Apps to give developers and enterprise teams air-gapped utility compliant with SOC 2 Type II, HIPAA, and GDPR boundaries.
+</details>
 
 ---
 

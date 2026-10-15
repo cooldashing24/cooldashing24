@@ -64,8 +64,8 @@ Monitoring & QA      : PostHog, PagerDuty, Vitest, Jest, PHPUnit, Playwright, TD
 
 ## 🎓 Education & Background
 
-- **Master of Computer Applications (MCA)** — 2016
-- **Bachelor of Computer Applications (BCA)** — 2013
+- **Master of Computer Applications (MCA)** — Sarvajanik College of Engineering & Technology, GTU (2016)
+- **Bachelor of Computer Applications (BCA)** — Udhna Academy College, VNSGU (2013)
 - **Honors**: Google India Challenge Scholarship (Udacity) · C Programming Workshop (IIT Bombay)
 
 ---
